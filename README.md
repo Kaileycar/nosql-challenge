@@ -72,10 +72,9 @@ datatypes of the `longitutde`, `latitude`, and `RatingValue` to be decimal numbe
         "longitude":"0.08384000",    
         "latitude":"51.49014200"    
     },    
-    "RightToReply":"",  
-    "Distance":4623.9723280747176,  
-    "NewRatingPending":True
-  }  
+    "RightToReply":"",    
+    "Distance":4623.9723280747176,    
+    "NewRatingPending":True }    
 
 ### Part 3: Exploratory Analysis  
 
