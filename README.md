@@ -75,7 +75,7 @@ datatypes of the `longitutde`, `latitude`, and `RatingValue` to be decimal numbe
     "RightToReply":"",
     "Distance":4623.9723280747176,
     "NewRatingPending":True
-     
+  }  
 
 ### Part 3: Exploratory Analysis  
 
